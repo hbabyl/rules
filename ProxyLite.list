@@ -2,6 +2,20 @@
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,qichiyu.com
+DOMAIN-SUFFIX,jellyfin.asia
+DOMAIN-SUFFIX,embylife.xyz
+DOMAIN-SUFFIX,mius.uk
+DOMAIN-SUFFIX,misty.cx
+DOMAIN-SUFFIX,milkcat.io
+DOMAIN-SUFFIX,dog.io
+DOMAIN-SUFFIX,nebula-media.org
+DOMAIN-SUFFIX,jingzhe.pro
+DOMAIN-SUFFIX,imetyou.top
+DOMAIN-SUFFIX,embyplus.org
+DOMAIN-SUFFIX,ofiii.com
+DOMAIN-SUFFIX,akamaized.net
+DOMAIN-SUFFIX,hinet.net
+DOMAIN-SUFFIX,69yun69.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100

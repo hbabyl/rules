@@ -1,6 +1,7 @@
 # emby代理补充列表
 
 # 域名后缀匹配
+# DOMAIN-SUFFIX,super.yezi.my
 DOMAIN-SUFFIX,jellyfin.asia
 DOMAIN-SUFFIX,embylife.xyz
 DOMAIN-SUFFIX,mius.uk
@@ -17,3 +18,4 @@ DOMAIN-SUFFIX,biliblili.uk
 DOMAIN-SUFFIX,mobaiemby.site
 DOMAIN-SUFFIX,bangumi.ca
 DOMAIN-SUFFIX,younoyes.com
+

@@ -7,6 +7,8 @@ DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
 DOMAIN-SUFFIX,t.audiences.me
 DOMAIN-SUFFIX,tracker.cinefiles.info
+DOMAIN-SUFFIX,myip.ipip.net
+DOMAIN-SUFFIX,r.inews.qq.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu

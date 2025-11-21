@@ -10,6 +10,10 @@ DOMAIN-SUFFIX,tracker.cinefiles.info
 DOMAIN-SUFFIX,tracker.m-team.cc
 DOMAIN-SUFFIX,myip.ipip.net
 DOMAIN-SUFFIX,r.inews.qq.com
+DOMAIN-SUFFIX,xiaomi.com
+DOMAIN-SUFFIX,mi.com
+DOMAIN-SUFFIX,miwifi.com
+DOMAIN-SUFFIX,xiaoai.plus
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
